@@ -1,0 +1,18 @@
+header {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    
+}
+.container {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+}
+footer {
+    background-color: red;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
